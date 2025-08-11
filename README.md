@@ -1,6 +1,14 @@
 # NHFS (Next HTTP File Server)
 
+<img width="2255" height="1432" alt="Screenshot 2025-08-10 165040" src="https://github.com/user-attachments/assets/a268affb-8b85-40b6-854f-da550fdd49cd" />
+
+---
+
 **NHFS** is a modern web-based file manager that allows browsing, viewing, uploading and managing files directly through a web browser. It was built using **Next.js** and **HeroUI**, and it aims to provide a clean, responsive, and user-friendly interface for interacting with files stored on a server. This project was developed as my **CS50x final project** and also serves as a personal learning experience in building scalable, full-stack web applications.
+
+## Demo
+https://github.com/user-attachments/assets/e69751e8-6580-41ed-a834-3ea95816beb0
+
 
 ---
 
